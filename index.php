@@ -16,7 +16,14 @@
         <input type="text" name="phonenumber" id="phonenumber" required>
         <br><br>
         <input type="submit" value="Enviar">
-    </form>
+        
+ </form>
+    <br><br>
+
+    <form action="http://localhost/projeto/list.php">
+    <input type="submit" value="Consultar todos os contatos listados" />
+</form>
+ 
 </body>
 </html>
 
